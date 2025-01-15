@@ -16,3 +16,8 @@ Description: "This is the profile for Goal."
 * identifier ^slicing.discriminator.path = "system"
 * identifier ^slicing.rules = #open
 // we will define slices soon
+* status MS
+* category MS 
+* author MS
+* subject MS
+* description MS
