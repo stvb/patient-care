@@ -2,7 +2,7 @@ Profile: BeCarePlan
 Parent: CarePlan
 Id: be-care-plan
 Title: "Care Plan"
-Description: "This is the profile for Care Plan in a home care setting. A Care Plan contains the activities planned and/or performed by a care team to deliver care for a particular patient, usually targeting a specific goal or condition - or a set thereof."
+Description: "This is the profile for Care Plan. A Care Plan contains the activities planned and/or performed by a care team to deliver care for a particular patient, usually targeting a specific goal or condition - or a set thereof."
 * ^version = "1.0.0"
 * ^status = #active
 * ^date = "2021-01-18T09:02:46+00:00"
@@ -19,10 +19,7 @@ Description: "This is the profile for Care Plan in a home care setting. A Care P
 * category MS 
 * title MS
 * description MS
-/*  from vitalink:
-* include $sct#773596008 "Care of elderly care plan"
-* include $sct#773981004 "Palliative care plan (record artifact)"
-*/
+
 
 * subject only Reference(BePatient or Group)
 * subject MS

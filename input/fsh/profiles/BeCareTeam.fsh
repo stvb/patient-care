@@ -2,7 +2,7 @@ Profile: BeCareTeam
 Parent: CareTeam
 Id: be-careteam
 Title: "Care Team"
-Description: "This is the Belgian profile for home care team. A home care team defines the people and roles organized around a patient's care activities planned. It may also imply additional aspects such as access to information etc."
+Description: "This is the Belgian profile for care team. A care team defines the people and roles organized around a patient's care activities planned. It may also imply additional aspects such as access to information etc."
 * ^version = "1.0.0"
 * ^status = #active
 * ^date = "2021-01-18T09:02:46+00:00"
