@@ -7,12 +7,12 @@
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 
 
-id: hl7.fhir.be.care-coordination
-canonical: https://www.ehealth.fgov.be/standards/fhir/care-coordination
-url: https://www.ehealth.fgov.be/standards/fhir/care-coordination
+id: hl7.fhir.be.patient-care
+canonical: https://www.ehealth.fgov.be/standards/fhir/patient-care
+url: https://www.ehealth.fgov.be/standards/fhir/patient-care
 name: BeCareCoordination
-title: "HL7 Belgium care-coordination"
-description: Belgian Care Coordination profiles
+title: "HL7 Belgium Patient Care"
+description: Belgian Patient care profiles
 status: active
 license: CC0-1.0
 date: 2020-02-26
