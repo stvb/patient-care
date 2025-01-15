@@ -18,6 +18,6 @@ Description: "This is the profile for Goal."
 // we will define slices soon
 * status MS
 * category MS 
-* author MS
+* expressedBy MS
 * subject MS
 * description MS
