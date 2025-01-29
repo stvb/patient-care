@@ -18,4 +18,5 @@ Description: "This is the profile for Goal."
 * category MS 
 * expressedBy MS
 * subject MS
+* subject only Reference(BePatient or Group)
 * description MS
