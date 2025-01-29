@@ -6,14 +6,14 @@ This is an empty IG
 ### Publication
 This ImplementationGuide is published in the following locations:
 
-Continuous Build: __http://build.fhir.org/ig/hl7-be/care-coordination/branches/main/index.html__  
-Canonical / permanent URL: __https://www.ehealth.fgov.be/standards/fhir/care-coordination__
+Continuous Build: __http://build.fhir.org/ig/hl7-be/patient-care/branches/main/index.html__  
+Canonical / permanent URL: __https://www.ehealth.fgov.be/standards/fhir/patient-care__
 <br> </br>
 
 ### Issues
 Issues and change requests are managed here:  
 
-Issues:  __https://github.com/hl7-be/care-coordination/issues__  
-Kanban board:  __https://github.com/hl7-be/care-coordination/projects/1__  
+Issues:  __https://github.com/hl7-be/patient-care/issues__  
+Kanban board:  __https://github.com/hl7-be/patient-care/projects/1__  
 
 ---
