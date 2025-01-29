@@ -6,7 +6,7 @@ This is an empty IG
 ### Publication
 This ImplementationGuide is published in the following locations:
 
-Continuous Build: __http://build.fhir.org/ig/hl7-be/patient-care/branches/main/index.html__  
+Continuous Build: __http://build.fhir.org/ig/hl7-be/patient-care/branches/master/index.html__  
 Canonical / permanent URL: __https://www.ehealth.fgov.be/standards/fhir/patient-care__
 <br> </br>
 
