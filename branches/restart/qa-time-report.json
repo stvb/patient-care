@@ -1,0 +1,393 @@
+{
+  "date" : "Wed, 15 Jan, 2025 14:43:44 +0000",
+  "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
+  "files" : [
+    {
+      "name" : "/fsh-generated/resources/ImplementationGuide-hl7.fhir.be.care-coordination.json",
+      "size" : 4961,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 50,
+          "length" : 19
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 51,
+          "length" : 8
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 51,
+          "length" : 197
+        },
+        {
+          "activity" : "validate",
+          "start" : 55,
+          "length" : 1527
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 57,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 57,
+          "length" : 110
+        },
+        {
+          "activity" : "generate2",
+          "start" : 59,
+          "length" : 63
+        },
+        {
+          "activity" : "makeDependencies",
+          "start" : 67,
+          "length" : 1
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 76,
+          "length" : 3
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/StructureDefinition-be-care-plan.json",
+      "size" : 5774,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 49,
+          "length" : 20
+        },
+        {
+          "activity" : "load-configure",
+          "start" : 50,
+          "length" : 1
+        },
+        {
+          "activity" : "load",
+          "start" : 50,
+          "length" : 23
+        },
+        {
+          "activity" : "generateSnapshots",
+          "start" : 50,
+          "length" : 83
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 51,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 51,
+          "length" : 77
+        },
+        {
+          "activity" : "validate",
+          "start" : 51,
+          "length" : 2194
+        },
+        {
+          "activity" : "checkConformanceResources",
+          "start" : 57,
+          "length" : 1
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 57,
+          "length" : 2
+        },
+        {
+          "activity" : "generate1",
+          "start" : 57,
+          "length" : 374
+        },
+        {
+          "activity" : "generate2",
+          "start" : 59,
+          "length" : 2657
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 76,
+          "length" : 12
+        },
+        {
+          "activity" : "scanProfilesForR5",
+          "start" : 84,
+          "length" : 1
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 84,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/StructureDefinition-be-careteam.json",
+      "size" : 4227,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 49,
+          "length" : 32
+        },
+        {
+          "activity" : "loadDepInfo",
+          "start" : 50,
+          "length" : 1
+        },
+        {
+          "activity" : "load",
+          "start" : 50,
+          "length" : 15
+        },
+        {
+          "activity" : "generateSnapshots",
+          "start" : 50,
+          "length" : 20
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 51,
+          "length" : 44
+        },
+        {
+          "activity" : "validate",
+          "start" : 53,
+          "length" : 383
+        },
+        {
+          "activity" : "generate1",
+          "start" : 57,
+          "length" : 207
+        },
+        {
+          "activity" : "generate2",
+          "start" : 62,
+          "length" : 556
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 76,
+          "length" : 7
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/StructureDefinition-be-communication.json",
+      "size" : 6284,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 49,
+          "length" : 21
+        },
+        {
+          "activity" : "load-configure",
+          "start" : 50,
+          "length" : 1
+        },
+        {
+          "activity" : "load",
+          "start" : 50,
+          "length" : 15
+        },
+        {
+          "activity" : "generateSnapshots",
+          "start" : 50,
+          "length" : 37
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 51,
+          "length" : 186
+        },
+        {
+          "activity" : "validate",
+          "start" : 54,
+          "length" : 643
+        },
+        {
+          "activity" : "generate1",
+          "start" : 57,
+          "length" : 235
+        },
+        {
+          "activity" : "generate2",
+          "start" : 63,
+          "length" : 477
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 76,
+          "length" : 12
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 84,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/StructureDefinition-be-model-careplan.json",
+      "size" : 7681,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 49,
+          "length" : 13
+        },
+        {
+          "activity" : "load",
+          "start" : 50,
+          "length" : 25
+        },
+        {
+          "activity" : "generateSnapshots",
+          "start" : 51,
+          "length" : 25
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 51,
+          "length" : 33
+        },
+        {
+          "activity" : "validate",
+          "start" : 54,
+          "length" : 267
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 57,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 58,
+          "length" : 158
+        },
+        {
+          "activity" : "generate2",
+          "start" : 63,
+          "length" : 249
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 76,
+          "length" : 4
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 84,
+          "length" : 2
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/StructureDefinition-be-model-careteam.json",
+      "size" : 5158,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 49,
+          "length" : 12
+        },
+        {
+          "activity" : "load",
+          "start" : 50,
+          "length" : 24
+        },
+        {
+          "activity" : "generateSnapshots",
+          "start" : 51,
+          "length" : 21
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 51,
+          "length" : 29
+        },
+        {
+          "activity" : "validate",
+          "start" : 55,
+          "length" : 137
+        },
+        {
+          "activity" : "checkConformanceResources",
+          "start" : 57,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 58,
+          "length" : 114
+        },
+        {
+          "activity" : "generate2",
+          "start" : 63,
+          "length" : 199
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 76,
+          "length" : 3
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/StructureDefinition-be-model-communication.json",
+      "size" : 5319,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 49,
+          "length" : 20
+        },
+        {
+          "activity" : "load",
+          "start" : 50,
+          "length" : 17
+        },
+        {
+          "activity" : "generateSnapshots",
+          "start" : 51,
+          "length" : 18
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 51,
+          "length" : 27
+        },
+        {
+          "activity" : "validate",
+          "start" : 55,
+          "length" : 155
+        },
+        {
+          "activity" : "generate1",
+          "start" : 58,
+          "length" : 114
+        },
+        {
+          "activity" : "generate2",
+          "start" : 64,
+          "length" : 182
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 76,
+          "length" : 4
+        }
+      ]
+    }
+  ]
+}
