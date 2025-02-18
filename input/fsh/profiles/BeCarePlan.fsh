@@ -28,6 +28,9 @@ Description: "This is the profile for Care Plan. A Care Plan contains the activi
 * author only Reference(BePatient or BePractitioner or BePractitionerRole or BeOrganization or BeCareTeam or Device or RelatedPerson)
 * author MS
 
+* contributor only Reference(BePatient or BePractitioner or BePractitionerRole or BeOrganization or BeCareTeam or Device or RelatedPerson)
+* contributor MS
+
 * careTeam only Reference(BeCareTeam)
 * careTeam MS
 
